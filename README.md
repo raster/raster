@@ -4,7 +4,7 @@ Hello Friends!
 
 I have been writing instructions for computers since the early 1980s. Sometimes I do it professionally, and sometimes I do it for fun, or to have more control over the world we live in.
 
-Currenrtly (2020 as of this writing) I've been mostly doing Arduino things, some Jekyll stuff, and always dabble in shell scripts, Perl, a bit of Python, Processing, and the like.
+Currently (2020 as of this writing) I've been mostly doing Arduino things, some Jekyll stuff, and always dabble in shell scripts, Perl, a bit of Python, Processing, and the like.
 
 There's a good chance nothing I publish will be groundbreaking or amazing, but if I can share what I know and help one person, that's enough. I've learned so much from others willing to share, that if I can give back, I will.
 
