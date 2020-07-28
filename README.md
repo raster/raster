@@ -2,7 +2,7 @@
 
 Hello Friends!
 
-I have been writing instructions for computer since the early 1980s. Sometimes I've done it professionally, and sometimes I do it for fun, or to have more control over the world we live in.
+I have been writing instructions for computers since the early 1980s. Sometimes I do it professionally, and sometimes I do it for fun, or to have more control over the world we live in.
 
 Currenrtly (2020 as of this writing) I've been mostly doing Arduino things, some Jekyll stuff, and always dabble in shell scripts, Perl, a bit of Python, Processing, and the like.
 
