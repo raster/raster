@@ -8,8 +8,7 @@ Currently (2022 as of this writing) I've been mostly doing Arduino things, some 
 
 I am not an amazing software developer, but I am an educator, and if I can share what I know and help others learn, that's enough. I've learned so much from others willing to share, that if I can give back, I will.
 
-Oh, if you want to check out my other publishing endeavors, see [RasterWeb!](http://rasterweb.net/raster/) which has been going strong(?) since 1997.
-
+To see my work elsewhere on the web please see [PeteProdoehl.com](http://peteprodoehl.com/)
 
 
 <!--
